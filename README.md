@@ -1,4 +1,7 @@
 # Strawberry_Cookie
+![image0](https://github.com/LRFPV2/Strawberry_Cookie/blob/main/IMG_1448.JPG)
+![image1](https://github.com/LRFPV2/Strawberry_Cookie/blob/main/IMG_1449.JPG)
+![image2](https://github.com/LRFPV2/Strawberry_Cookie/blob/main/IMG_1486.JPG)
 ![render](https://github.com/LRFPV2/Strawberry_Cookie/blob/main/Render.jpg)
 
 [VitaPartz.com](https://vitapartz.com/)
