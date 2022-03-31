@@ -38,7 +38,6 @@ SPI breakout header (ADXL345 to Raspberry Pi)
 
 Extra filtering and circuitry to provide rock-solid ADC performance
 
-TODO:
-Post sample printer.cfg for Klipper.
-
-Instructions and more documentation.
+Update 3/31/22:
+Posted sample printer.cfg for Klipper.
+Preliminary instructions and more documentation.
