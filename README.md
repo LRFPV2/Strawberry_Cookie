@@ -4,8 +4,6 @@
 ![image2](https://github.com/LRFPV2/Strawberry_Cookie/blob/main/IMG_1486.JPG)
 ![render](https://github.com/LRFPV2/Strawberry_Cookie/blob/main/Render.jpg)
 
-[VitaPartz.com](https://vitapartz.com/)
-
 Fully functional 3D print HAT that turns your Raspberry Pi into a Klipper-compatible powerhouse of a machine.
 
 Features:
